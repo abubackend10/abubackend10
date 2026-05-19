@@ -8,7 +8,7 @@
   
   <!-- Приветствие с typewriter эффектом -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hello%2C+I'm+[Your+Name];Full-Stack+%26+Open+Source+Lover;Building+The+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hello%2C+I'm+[Abubakr];Full-Stack+%26+Open+Source+Lover;Building+The+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
   </h1>
 
   <h3 align="center">
