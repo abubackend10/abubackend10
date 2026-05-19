@@ -8,20 +8,20 @@
   
   <!-- Приветствие с typewriter эффектом -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hello%2C+I'm+[Abubakr];Full-Stack+%26+Open+Source+Lover;Building+The+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Hello%2C+I'm+Abubakr+%F0%9F%91%8B;Backend+Developer+%7C+Geeks+Osh;Django+%2B+DRF+%2B+Docker;Building+The+Future+with+Code" alt="Typing SVG" />
   </h1>
 
   <h3 align="center">
     <samp>&gt; Hey There! I'm
-      <b><a target="_blank" href="https://your-portfolio.com">Abubakr</a></b>
+      <b>Abubakr</b>
     </samp>
   </h3>
   
   <p align="center">
     <samp>
-      「 I'm a <b>Full Stack Developer</b> from <b>Earth</b> 」
+      「 I'm a <b>Backend Developer</b> from <b>Osh, Kyrgyzstan</b> 」
       <br>
-      「 Turning coffee into code and ideas into reality since <b>2020</b> 」
+      「 Studying at <b>Geeks Osh</b> | Python & Django Enthusiast 」
       <br>
       <br>
     </samp>
@@ -29,73 +29,74 @@
 </div>
 
 <!-- Кастомная разделительная линия -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" width="100%">
 
 <!-- Левая и правая колонка -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🚀 I’m currently working on **Something Awesome**
-- 🌱 I’m currently learning **Rust & WebAssembly**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I’m looking for help with **Scaling Microservices**
-- 💬 Ask me about **React, Node.js, and System Design**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I debug with console.log()**
+- 🚀 I’m currently working on **Django REST API projects**
+- 🌱 I’m currently learning **Redis, Celery & Docker**
+- 👯 I’m looking to collaborate on **Open Source Backend Projects**
+- 🤝 I’m looking for help with **Microservices Architecture**
+- 💬 Ask me about **Python, Django, DRF, Docker**
+- 📫 How to reach me: **abubakrdev10@gmail.com**
+- ⚡ Fun fact: **I debug with print() lol**
 
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img align="center" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
 </td>
 </tr>
 </table>
 
 <!-- Вторая кастомная линия -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Tools</b>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><b> Skills & Tools</b>
 <br>
 
 <p align="center">
-  <!-- Бейджи с технологиями (вместо скучных иконок) -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <!-- Бейджи с технологиями -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sbcRheu/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
 <div align="center">
-  <!-- Темная тема для статистики -->
-  <a href="https://github.com/abubackend10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Abubakr1710">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abubakr1710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr1710&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <br>
 
-<!-- График активности (кривая достижений) -->
+<!-- График активности -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=My%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&point=6C63FF&line=6C63FF&area=true&area_color=6C63FF" width="95%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakr1710&custom_title=Abubakr's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&point=6C63FF&line=6C63FF&area=true&area_color=6C63FF" width="95%" alt="activity graph">
 </div>
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"><b> Let's Connect!</b>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><b> Let's Connect!</b>
 <br>
 
 <div align="center">
@@ -112,16 +113,16 @@
 
 <br>
 
-<!-- 3D вращающийся глобус (посетители) -->
+<!-- Счётчик посетителей -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Abubakr1710&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
 
 <!-- Прощальная цитата -->
 <div align="center">
   <h4>
     <samp>
-      « Создавай. Ломай. Учись. Повторяй. »
+      « Код — это поэзия. Пиши красиво. »
     </samp>
   </h4>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
