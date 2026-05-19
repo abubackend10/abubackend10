@@ -81,9 +81,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Abubakr1710">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abubakr1710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr1710&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/abubackend10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubackend10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubackend10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
@@ -91,7 +91,7 @@
 
 <!-- График активности -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakr1710&custom_title=Abubakr's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&point=6C63FF&line=6C63FF&area=true&area_color=6C63FF" width="95%" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubackend10&custom_title=Abubakr's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=00000000&point=6C63FF&line=6C63FF&area=true&area_color=6C63FF" width="95%" alt="activity graph">
 </div>
 
 <br>
@@ -115,7 +115,7 @@
 
 <!-- Счётчик посетителей -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abubakr1710&style=flat-square&color=blueviolet" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=abubackend10&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
 
 <!-- Прощальная цитата -->
