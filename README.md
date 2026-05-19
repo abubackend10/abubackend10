@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abubakr</h1>
+<h3 align="center">Backend Developer | Django & Python Developer</h3>
 
-<!--
-**abubackend10/abubackend10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Backend+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Backend Developer focused on Django
+- 🌱 Currently learning advanced backend architecture
+- ⚡ Love building modern web applications
+- 🎯 Goal: Become a strong Software Engineer
+- 🔥 Passionate about clean UI + powerful backend
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css" />
+</p>
+
+### Tools & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postgresql,sqlite,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubackend10&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubackend10&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abubackend10&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/abubackend10">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://t.me/@Abubakr_jr">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <b>Abubakr</b>
+</p>
